@@ -2,19 +2,21 @@
 
 Accuracy achieved is 80.1%.
 Adam Optimizer was used with a learning rate of 0.0005 and was trained for 24 epochs using early stopping.
-Classification Report : 
-
-![](Result%20Images/Classification_Report.PNG)
 
 
-The Trainng Plots are  :
+## CLASSIFICATION REPORT:
 
-![](Result%20Images/Accuracy%20Plot.png)
+![](Images/Classification_Report.PNG)
 
-![](Result%20Images/Loss%20Plot.png)
 
-The Confusion Matrix is as follows : 
-![](Result%20Images/Confusion%20Matrix.png)
+## TRAINING PLOTS:
+
+<img src="https://github.com/sanskar-hasija/CIFAR_10_ResNet/blob/main/Images/Accuracy%20Plot.png" width="400">            <img src="https://github.com/sanskar-hasija/CIFAR_10_ResNet/blob/main/Images/Loss%20Plot.png" width="400">
+
+
+
+## CONFUSION MATRIX :
+<img src="https://github.com/sanskar-hasija/CIFAR_10_ResNet/blob/main/Images/Confusion%20Matrix.png" heigth ="280">
 
 
 The model was trained on Tensorflow 2.1.0.
