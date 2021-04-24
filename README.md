@@ -1,7 +1,7 @@
 # CIFAR -10 Dataset Classification using ResNet102V2 
 
 Accuracy achieved is 80.1%.
-Adam Optimizer was used with a learning rate of 0.0005 and was trained for 24 epochs using early stopping.
+Adam Optimizer was used with a learning rate of 0.0005 and model was trained for 24 epochs and stopped using early stopping callback.
 
 
 ## CLASSIFICATION REPORT:
