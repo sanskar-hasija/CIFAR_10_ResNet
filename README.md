@@ -20,3 +20,4 @@ Adam Optimizer was used with a learning rate of 0.0005 and model was trained for
 
 
 The model was trained on Tensorflow 2.1.0.
+The trained model can be downloaded from [here](www.google.com).
